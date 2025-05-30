@@ -1,0 +1,24 @@
+So this file will contain all the commands I remember
+Let's Go!!
+
+pwd - present working directory
+cd - change directory
+cd ../.. - return 2 directories backwards
+ls - list contents of directories & folders
+mkdir - creates new folders
+mv (file name) (new file name) - changes a file/folder name from 1 to another
+mv (file name) (folder name) - moves a file/folder from 1 location to another
+rm - removes files
+rmdir - remove empty directories
+rm rf- force remove directories with files in them
+git init - initializes Repo
+git add (file name) - adds file to changes to be committed
+git add . - adds all files in a repo to be tracked
+git commit -m "message" - commits changes with a message
+git log - shows all commits
+git status - shows status of repo and its files (untracked, tracked & to be commited)
+git branch - shows all branches
+git branch -m (file name) - creates new branch
+git checkout (file name) - switches to a branch
+git checkout -b (file name) - creates a new branch and switches to it
+touch (file name) - creates a new empty file
