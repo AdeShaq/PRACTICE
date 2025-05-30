@@ -22,3 +22,4 @@ git branch -m (file name) - creates new branch
 git checkout (file name) - switches to a branch
 git checkout -b (file name) - creates a new branch and switches to it
 touch (file name) - creates a new empty file
+ git remote add origin https://github.com/AdeShaq/PRACTICE.git
